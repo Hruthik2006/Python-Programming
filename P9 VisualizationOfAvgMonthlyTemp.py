@@ -22,3 +22,9 @@ def visualize_average_monthly_temperatures (monthly_avg_temp):
     plt.grid(True)
     plt.show()
 
+file_path= input("Enter the path to the CSV file containing temperature data: ")
+
+monthly_avg_temp = compute_average_monthly_temperatures (file_path)
+
+visualize_average_monthly_temperatures (monthly_avg_temp)
+
