@@ -1,4 +1,4 @@
-# Problem Statement 
+# Problem Statement
 # Develop a program to read the student details like Name, USN, and Marks in three subjects. 
 # Display the student details, total marks and percentage with suitable messages.
 
