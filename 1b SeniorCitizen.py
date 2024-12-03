@@ -1,4 +1,4 @@
-# Problem Statement
+# Problem Statement 
 # Develop a program to read the name and year of birth of a person. 
 # Display whether the person is a senior citizen or not.
 
