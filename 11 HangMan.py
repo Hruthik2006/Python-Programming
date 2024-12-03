@@ -1,4 +1,4 @@
-# Developing HangMan game 
+# Developing HangMan game  
 
 import random
 
